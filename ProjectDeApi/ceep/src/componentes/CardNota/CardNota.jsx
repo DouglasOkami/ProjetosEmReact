@@ -11,5 +11,6 @@ class CardNota extends React.Component {
         )
     }
 }
+//https://inventory.bihands.com.br/VitriniShopping?shop=bihands
 
 export default CardNota;
